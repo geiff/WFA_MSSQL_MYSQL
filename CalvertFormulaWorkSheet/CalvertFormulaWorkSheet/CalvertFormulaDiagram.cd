@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CalvertFormulaWorkSheet.AucFormula">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgABAAAAAAAAAAAACAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>AucFormula.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CalvertFormulaWorkSheet.AucModel">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AucModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CalvertFormulaWorkSheet.GfrModel">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAgAAAEAAAAAAACAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>GfrModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.221" />
+  </Class>
+  <Class Name="CalvertFormulaWorkSheet.GfrFormula">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GfrFormula.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="CalvertFormulaWorkSheet.IFormulaDanni" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IFormulaDanni.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CalvertFormulaWorkSheet.ICalculatable">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\ICalculatable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
